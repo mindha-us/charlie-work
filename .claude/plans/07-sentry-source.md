@@ -2,7 +2,7 @@
 
 > Add a Sentry webhook adapter behind the existing `Source` trait, proving the ingestion abstraction.
 
-Parent: [00-project-plan.md](00-project-plan.md) (build order step 10). Depends on Plan 03; deploys via Plan 06.
+Parent: [00-project-plan.md](00-project-plan.md) (build order step 8, later). Depends on Plan 03; deploys via Plan 06.
 
 ## PRs
 

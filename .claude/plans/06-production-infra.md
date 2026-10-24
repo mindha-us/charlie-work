@@ -2,7 +2,7 @@
 
 > Persist state in Firestore and codify the log sink, Pub/Sub subscription and Cloud Run deploy.
 
-Parent: [00-project-plan.md](00-project-plan.md) (build order step 9 plus the deferred CI deploy from step 2). Depends on Plan 05.
+Parent: [00-project-plan.md](00-project-plan.md) (build order step 7). Depends on Plan 05.
 
 ## PRs
 
